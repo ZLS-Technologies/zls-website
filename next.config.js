@@ -5,4 +5,6 @@ module.exports = {
   images: {
     unoptimized: true, 
   },
+  basePath: "/zls-website",
+  assetPrefix: "/zls-website/",
 };
