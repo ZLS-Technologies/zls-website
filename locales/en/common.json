@@ -1,0 +1,45 @@
+{
+  "siteName": "ZLS Technologies",
+  "nav.about": "About",
+  "nav.services": "Services",
+  "nav.contact": "Contact",
+
+  "hero.headline": "Custom Software Solutions & Consulting",
+  "hero.subhead": "We build scalable, secure applications and guide your technology strategy.",
+  "hero.cta": "Contact Us",
+
+  "about.title": "About Us",
+  "about.p1": "At ZLS Technologies, we partner with forward-thinking organizations to harness the power of modern technology and turn bold ideas into reality.",
+  "about.p2": "Our seasoned consultants, full-stack developers, and support specialists collaborate deeply with each client to design scalable architectures and deliver reliable systems that grow with you.",
+  "about.bullet.consulting": "Strategic Consulting — Roadmaps tailored to your vision.",
+  "about.bullet.development": "Custom Development — User-centric applications built for performance & security.",
+  "about.bullet.support": "Ongoing Support — Proactive maintenance and rapid growth.",
+
+  "services.title": "Our Services",
+
+  "service.software.title": "Software Development",
+  "service.software.b1": "Custom tailored",
+  "service.software.b2": "Desktop, Web and Mobile",
+  "service.software.b3": "Multiplatform",
+  "service.software.b4": "Highly optimized and scalable",
+
+  "service.cloud.title": "Cloud Solutions",
+  "service.cloud.b1": "Migration to cloud",
+  "service.cloud.b2": "Microservices",
+  "service.cloud.b3": "CI/CD",
+  "service.cloud.b4": "Security",
+
+  "service.consult.title": "Technical Consulting",
+  "service.consult.b1": "Technology stack assessment",
+  "service.consult.b2": "Architecture planning",
+  "service.consult.b3": "Performance optimization",
+  "service.consult.b4": "Security best practices",
+
+  "contact.title": "Contact",
+  "contact.email.label": "Email:",
+  "contact.email.value": "info@zls-technologies.hr",
+  "contact.address.label": "Address:",
+  "contact.address.value": " Preradovićeva ulica 16, Zagreb",
+
+  "footer.copyright": "© {year} ZLS Technologies"
+}

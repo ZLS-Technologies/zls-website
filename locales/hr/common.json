@@ -1,0 +1,45 @@
+{
+  "siteName": "ZLS Technologies",
+  "nav.about": "O Nama",
+  "nav.services": "Usluge",
+  "nav.contact": "Kontakt",
+
+  "hero.headline": "Softverska rješenja i savjetovanje",
+  "hero.subhead": "Izrađujemo skalabilne, sigurne aplikacije i vodimo vašu tehnološku strategiju.",
+  "hero.cta": "Kontaktirajte nas",
+
+  "about.title": "O Nama",
+  "about.p1": "U ZLS Technologies surađujemo s naprednim organizacijama kako bismo iskoristili snagu moderne tehnologije i smjele ideje pretvorili u stvarnost.",
+  "about.p2": "Naši iskusni konzultanti, full-stack programeri i stručnjaci za podršku blisko surađuju sa svakim klijentom kako bi dizajnirali skalabilne arhitekture i isporučili pouzdane sustave koji rastu s vama.",
+  "about.bullet.consulting": "Strateško savjetovanje - Prilagođeno vašoj viziji",
+  "about.bullet.development": "Razvoj po narudžbi — Aplikacije usmjerene na korisnika, izgrađene za performanse i sigurnost.",
+  "about.bullet.support": "Kontinuirana podrška — Proaktivno održavanje i brzi rast.",
+
+  "services.title": "Naše Usluge",
+
+  "service.software.title": "Razvoj Softvera",
+  "service.software.b1": "Krojen po mjeri",
+  "service.software.b2": "Desktop, Web i Mobilni",
+  "service.software.b3": "Višeplatformski",
+  "service.software.b4": "Visoko optimiziran i skalabilan",
+
+  "service.cloud.title": "Rješenja u Oblaku",
+  "service.cloud.b1": "Migracija u oblak",
+  "service.cloud.b2": "Mikroservisi",
+  "service.cloud.b3": "CI/CD",
+  "service.cloud.b4": "Sigurnost",
+
+  "service.consult.title": "Tehničko Savjetovanje",
+  "service.consult.b1": "Procjena tehnologija",
+  "service.consult.b2": "Planiranje arhitekture",
+  "service.consult.b3": "Optimizacija performansi",
+  "service.consult.b4": "Najbolje sigurnosne prakse",
+
+  "contact.title": "Kontakt",
+  "contact.email.label": "Email:",
+  "contact.email.value": "info@zls-technologies.hr",
+  "contact.address.label": "Adresa:",
+  "contact.address.value": " Preradovićeva ulica 16, Zagreb",
+
+  "footer.copyright": "© {year} ZLS Technologies"
+}

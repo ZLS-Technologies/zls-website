@@ -1,0 +1,31 @@
+{
+  "name": "zls-technologies",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export",
+    "copy:docs": "rimraf docs && copyfiles -u 1 \"out/**/*\" docs",
+    "predeploy": "npm run export && npm run copy:docs",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "framer-motion": "^12.23.0",
+    "lucide-react": "^0.255.0",
+    "next": "^15.3.5",
+    "postcss": "^8.4.5",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "postcss-import": "^16.1.1",
+    "rimraf": "^3.0.2",
+    "copyfiles": "^2.4.1",
+    "typescript": "latest"
+  }
+}
