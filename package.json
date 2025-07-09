@@ -5,9 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next build && next export",
     "copy:docs": "rimraf docs && copyfiles -u 1 \"out/**/*\" docs",
-    "predeploy": "npm run export && npm run copy:docs",
+    "predeploy": "npm run build && npm run copy:docs",
     "start": "next start"
   },
   "dependencies": {
@@ -23,9 +22,9 @@
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
+    "copyfiles": "^2.4.1",
     "postcss-import": "^16.1.1",
     "rimraf": "^3.0.2",
-    "copyfiles": "^2.4.1",
     "typescript": "latest"
   }
 }
