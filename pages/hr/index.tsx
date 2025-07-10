@@ -57,7 +57,7 @@ export default function Home() {
           {/* Logo + Name */}
           <div className="flex items-center space-x-2">
             <Image
-              src="/zls-website/zls-logo.png"
+              src="/zls-logo.png"
               alt={t["siteName"]}
               width={32}
               height={32}
